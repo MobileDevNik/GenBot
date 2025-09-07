@@ -1,0 +1,14 @@
+streamlit>=0.55.2
+openai>=0.6.4
+# google-generativeai>=0.7.2
+# groq>=0.9.0
+Pillow>=6.2.2
+requests>=2.27.1
+python-dotenv>=0.18.0
+# stqdm>=0.0.5
+
+# Optional (for Stability images)
+stability-sdk>=0.8.5
+
+# Optional (to record audio from microphone in-browser)
+streamlit-mic-recorder>=0.0.4
